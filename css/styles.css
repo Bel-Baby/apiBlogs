@@ -1,0 +1,13 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    background-color: darkgray;
+    padding: 20px;
+}
+
+/*tr {
+    margin-bottom: 40px;
+}*/
